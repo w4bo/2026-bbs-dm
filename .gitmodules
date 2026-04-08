@@ -1,0 +1,3 @@
+[submodule "slides/utils"]
+	path = slides/utils
+	url = git@github.com:w4bo/slides-markdown-utils.git
