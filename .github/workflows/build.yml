@@ -15,9 +15,6 @@ jobs:
       - name: Configuring the environment
         run: |
           bash utils/init.sh
-      - name: Running the notebooks (if any)
-        run: |
-          docker compose up build
       - name: Generate the slides
         run: |
           docker compose up publish
