@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/w4bo/2026-bbs-dm/compare/1.0.1...1.0.2) (2026-04-08)
+
+### Bug Fixes
+
+* update introduction ([9788e52](https://github.com/w4bo/2026-bbs-dm/commit/9788e522b21c9941577c4653c444f7c425353d4a))
+
 ## [1.0.1](https://github.com/w4bo/2026-bbs-dm/compare/1.0.0...1.0.1) (2026-04-08)
 
 ### Bug Fixes
