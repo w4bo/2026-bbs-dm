@@ -18,20 +18,20 @@ It provides the guidelines for the execution of a Data Mining process and then d
 
 | When | Who | What |
 | -    | -   | -    |
-| Day 1 (02/04/2026) 14:30 - 18:30 | Matteo Francia | Hands-on data mining and machine learning |
-| Day 2 (09/04/2026) 14:30 – 18:00 | Matteo Francia | Hands-on data mining and machine learning (lab) |
-| Day 3 (16/04/2026) 14:30 – 18:30 | Enrico Gallinucci | Hands-on Spark and OLAP |
-| Day 4 (22/04/2026) 09:30 – 13:00 | Enrico Gallinucci | Hands-on Spark and OLAP (lab) |
-| Day 5 (08/05/2026) 14:30 – 16:30 | Enrico Gallinucci | Final exam |
+| Day 1 (09/04/2026) 14:00 - 18:00 | Matteo Francia | Hands-on data mining and machine learning |
+| Day 2 (13/04/2026) 09:30 – 13:00 | Matteo Francia | Hands-on data mining and machine learning (lab) |
+| Day 3 (??/04/2026) 14:30 – 18:30 | Enrico Gallinucci | Hands-on Spark and OLAP |
+| Day 4 (??/04/2026) 09:30 – 13:00 | Enrico Gallinucci | Hands-on Spark and OLAP (lab) |
+| Day 5 (29/04/2026) 14:00 – 16:00 | MF / EG | Final exam |
 
 ## Link to (some of) the slides
 
 The remaining slides are uploaded into this repository (see the `slides/` folder)
 
-1. [Introduction](https://w4bo.github.io/AA2425-unibo-mldm/00-introduction-bbs#/title-slide)
-2. [Business & Data Understanding](https://w4bo.github.io/AA2425-unibo-mldm/03-dataunderstanding-bbs#/title-slide)
-3. [Data pre-processing](https://w4bo.github.io/AA2425-unibo-mldm/04-datapreparation-bbs#/title-slide)
-4. [Case study](https://w4bo.github.io/AA2425-unibo-mldm/lab-cimice#/title-slide)
+1. [Introduction](https://w4bo.github.io/AA2526-unibo-mldm/00-introduction-bbs#/title-slide)
+2. [Business & Data Understanding](https://w4bo.github.io/AA2526-unibo-mldm/03-dataunderstanding-bbs#/title-slide)
+3. [Data pre-processing](https://w4bo.github.io/AA2526-unibo-mldm/04-datapreparation-bbs#/title-slide)
+4. [Case study](https://w4bo.github.io/AA2526-unibo-mldm/lab-cimice#/title-slide)
 
 ## Software
 
