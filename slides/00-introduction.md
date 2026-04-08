@@ -90,6 +90,14 @@ However, I suggest you to read the book:
 - [The A.I. Boom Makes Millions for an Unlikely Industry Player](https://www.nytimes.com/2024/03/22/business/artificial-intelligence-anguilla.html)
 - ... and many others
 
+# Model-centric AI vs...
+
+![Model-centric AI](https://www.vanderschaar-lab.com/wp-content/uploads/2022/11/MC-AI-1024x541.png)
+
+# ... Data-centric AI
+
+![[Data-centric AI](https://dl.acm.org/doi/full/10.1145/3711118)](https://www.vanderschaar-lab.com/wp-content/uploads/2022/11/6Izs2I-U-1024x552.png)
+
 # Tentative outline
 
 :::: {.columns}
