@@ -1,5 +1,4 @@
 {
-  "name": "2026-bbs-dm",
   "devDependencies": {
     "semantic-release-preconfigured-conventional-commits": "1.1.157"
   },
