@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/w4bo/2026-bbs-dm/compare/1.0.0...1.0.1) (2026-04-08)
+
+### Bug Fixes
+
+* working on ci ([b6d27af](https://github.com/w4bo/2026-bbs-dm/commit/b6d27af8b0619a6408e67c1613594af07cca5f30))
+
 ## 1.0.0 (2026-04-08)
 
 ### Bug Fixes
