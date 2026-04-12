@@ -29,9 +29,10 @@ It provides the guidelines for the execution of a Data Mining process and then d
 The remaining slides are uploaded into this repository (see the `slides/` folder)
 
 1. [Introduction](https://w4bo.github.io/2026-bbs-dm/00-introduction)
-2. [Business & Data Understanding](https://w4bo.github.io/AA2526-unibo-mldm/03-dataunderstanding)
-3. [Data pre-processing](https://w4bo.github.io/AA2526-unibo-mldm/04-datapreparation)
-4. [Case study](https://w4bo.github.io/AA2526-unibo-mldm/lab-cimice)
+2. [Case study](https://w4bo.github.io/AA2526-unibo-mldm/lab-cimice)
+3. [Business & Data Understanding](https://w4bo.github.io/AA2526-unibo-mldm/03-dataunderstanding)
+4. [Data pre-processing](https://w4bo.github.io/AA2526-unibo-mldm/04-datapreparation)
+5. [Lab: Housing](https://w4bo.github.io/AA2526-unibo-mldm/lab-02-housing)
 
 ## Software
 
