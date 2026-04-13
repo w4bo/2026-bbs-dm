@@ -38,6 +38,7 @@ Lecture 1
 Lecture 2
 
 5. [Lab: Housing](https://w4bo.github.io/AA2526-unibo-mldm/lab-02-housing)
+6. Link to the [COLAB notebook](https://colab.research.google.com/github/w4bo/AA2526-unibo-mldm/blob/main/slides/lab-02-housing.ipynb)
 
 ## Software
 
