@@ -20,8 +20,8 @@ It provides the guidelines for the execution of a Data Mining process and then d
 | -    | -   | -    |
 | Day 1 (09/04/2026) 14:00 - 18:00 | Matteo Francia | Hands-on data mining and machine learning |
 | Day 2 (13/04/2026) 09:30 – 13:00 | Matteo Francia | Hands-on data mining and machine learning (lab) |
-| Day 3 (??/04/2026) 14:30 – 18:30 | Enrico Gallinucci | Hands-on Spark and OLAP |
-| Day 4 (??/04/2026) 09:30 – 13:00 | Enrico Gallinucci | Hands-on Spark and OLAP (lab) |
+| Day 3 (14/04/2026) 09:30 – 13:30 | Enrico Gallinucci | Hands-on Spark and OLAP (lab) |
+| Day 4 (20/04/2026) 09:30 – 13:00 | Enrico Gallinucci | Hands-on Spark and OLAP (lab) |
 | Day 5 (29/04/2026) 14:00 – 16:00 | MF / EG | Final exam |
 
 ## Link to (some of) the slides
@@ -43,3 +43,5 @@ Lecture 2
 ## Software
 
 - The lectures are mainly based on Colab notebooks, you simply need a Google account (no additional software should be installed for Python and its ecosystem).
+- The lab on Spark requires Visual Studio Code, and Spark must be downloaded and installed. VMs will be provided with the setup already done; instructions to replicate the setup on your machine will be provided during the first lab.
+- Depending on time availability, further exercises will be done using Power BI (included in the VMs).
