@@ -45,3 +45,7 @@ Lecture 2
 - The lectures are mainly based on Colab notebooks, you simply need a Google account (no additional software should be installed for Python and its ecosystem).
 - The lab on Spark requires Visual Studio Code, and Spark must be downloaded and installed. VMs will be provided with the setup already done; instructions to replicate the setup on your machine will be provided during the first lab.
 - Depending on time availability, further exercises will be done using Power BI (included in the VMs).
+
+Link: https://labs.azure.com/register/i9aivm4w
+Password: D#b7DUaC
+
